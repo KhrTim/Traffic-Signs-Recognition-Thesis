@@ -41,4 +41,4 @@ models"
 These are videos of a car ride, taken from the dash cam
 
 ## Slides with thesis summary and results can be found here
-[Slides](https://docs.google.com/presentation/d/1pMQQY7cBm3RffQktrgF4qcQP9Mjo5jGoYewDPrRqtn0/edit?usp=sharing)
+[Slides](https://drive.google.com/file/d/1YylQFpnrbT_nsuIMrj7l_ySiFiNnX0Dz/view?usp=sharing)
