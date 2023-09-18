@@ -15,6 +15,8 @@ models"
    ```
    pip install -r requirements.txt
    ```
+(All packages may take up to 2GB disk space. First 2 steps can be skipped in case you know which packages your computer needs for running a program and you know how to install them manually)
+
 3. Run the `app.py` file
 4. Choose mode, input source and file (or use camera if it was chosen on a previuos step)
 
@@ -42,3 +44,9 @@ These are videos of a car ride, taken from the dash cam
 
 ## Slides with thesis summary and results can be found here
 [Slides](https://drive.google.com/file/d/1YylQFpnrbT_nsuIMrj7l_ySiFiNnX0Dz/view?usp=sharing)
+
+## Screenshots
+![Traffic signs recognition 1](demo/1.png "Traffic signs recognition 1")
+
+![Traffic signs recognition 2](demo/2.png "Traffic signs recognition 2")
+
