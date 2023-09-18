@@ -13,7 +13,7 @@ models"
    ```
 2. Install all requirements
    ```
-   pip install requirements.txt
+   pip install -r requirements.txt
    ```
 3. Run the `app.py` file
 4. Choose mode, input source and file (or use camera if it was chosen on a previuos step)
